@@ -23,7 +23,7 @@ React-Portfolio
 
 ## Demo
 
-[Live Demo](#) - Add the link to your live portfolio here.
+[Live Demo]
 
 ## Installation
 
